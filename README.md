@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Chirino</h1>
 <h3 align="center">I’m a software developer from Caracas, Venezuela.</h3>
 
-- 🔭 I’m currently working on **Cargofive**
+- 🔭 I’m currently working on **Freelance**
 
 - 🌱 I’m currently learning **Node.js, Python and IA**
 
